@@ -1,0 +1,64 @@
+.navbar {
+  background-color: transparent;
+}
+.navbar.container {
+    max-width: 1600px !important;
+}
+.container {
+  max-width: 1920px !important;
+  width: 100%;
+}
+.header-img {
+  width: 100%;
+  margin-top: -7rem;
+  height: 1081px;
+  opacity: 1;
+  border: 1px solid #707070;
+  position: relative;
+}
+.img.col-md-6 {
+  padding=right: 0 !important;
+  float: right;
+  margin-top: -21rem;
+}
+#services {
+  font: normal normal 600 16px/72px Open Sans;
+  color: #C0345E;
+  text-transform: uppercase;
+  width:300px;
+  height:22px;
+  top:304px;
+  left:300px;
+  margin-bottom: 50px;
+  text-align: left;
+  letter-spacing: 0.8px;
+  opacity: 0.75;
+}
+/*--------------------------------------*/
+.intro{
+  max-width:1400px !important;
+}
+h1.section-headings {
+    top: 381px;
+    left: 300px;
+    width: 410px;
+    height: 105px;
+    text-align: left;
+    letter-spacing: 0px;
+    opacity: 1;
+    font: normal normal bold 48px/57px ITC Avant Garde Gothic Pro;
+}
+.grey-text {
+  color: #506473;
+}
+p {
+    top: 536px;
+    left: 300px;
+    width: 413px;
+    height: 141px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #506473;
+    opacity: 1;
+    font: normal normal normal 21px/38px Open Sans;
+}
